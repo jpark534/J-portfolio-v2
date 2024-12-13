@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 61px;
+  padding-top: 41px;
   z-index: 2;
   margin: 0 10%;
 }
@@ -36,6 +36,15 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  transition: 0.4s;
+}
+
+.menuItems a:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 20px;
+  
+
 }
 
 @media screen and (max-width: 830px) {

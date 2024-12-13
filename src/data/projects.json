@@ -1,23 +1,31 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "WeAttire",
+    "imageSrc": "/assets/projects/WeAttire.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Swift", "Swift UI", "Miro"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/jpark534/WeAttire-iOSapp"
+  },
+  {
+    "title": "J-Portfolio v1",
+    "imageSrc": "/assets/projects/portfoliov1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React JS", "Javascript", "HTML/CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/jpark534/J-Portfolio-v1"
+  },
+  {
+    "title": "TicTacToes",
+    "imageSrc": "/assets/projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
     "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "/assets/projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
