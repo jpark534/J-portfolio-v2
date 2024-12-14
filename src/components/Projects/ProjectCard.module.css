@@ -27,6 +27,11 @@
   font-family: var(--font-inter);
   letter-spacing: 4.5px;
   text-align: center;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: white;
+  text-underline-offset: 10px;
+  margin-bottom: 15px;
 }
 
 .description {

@@ -3,7 +3,7 @@
     "title": "WeAttire",
     "imageSrc": "/assets/projects/WeAttire.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Swift", "Swift UI", "Miro"],
+    "skills": ["Swift", "Swift UI", "Miro", "Canva"],
     "demo": "https://www.example.com",
     "source": "https://github.com/jpark534/WeAttire-iOSapp"
   },
@@ -11,23 +11,23 @@
     "title": "J-Portfolio v1",
     "imageSrc": "/assets/projects/portfoliov1.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React JS", "Javascript", "HTML/CSS"],
+    "skills": ["React JS", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/jpark534/J-Portfolio-v1"
   },
   {
     "title": "TicTacToes",
-    "imageSrc": "/assets/projects/project.png",
+    "imageSrc": "/assets/projects/TicTacToes.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["Python", "Pygame", "Figma"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/jpark534/tictactoes"
   },
   {
-    "title": "Project C",
-    "imageSrc": "/assets/projects/project.png",
+    "title": "J-Portfolio v2",
+    "imageSrc": "/assets/projects/portfoliov2.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
