@@ -1,34 +1,42 @@
 [
   {
-    "title": "WeAttire",
+    "title": "WeAttire⛅️",
     "imageSrc": "/assets/projects/WeAttire.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Swift", "Swift UI", "Miro", "Canva"],
+    "description": "iOS app providing weather analysis tailored to the user's location, visually offering suitable attire choices",
+    "skills": ["Swift", "Swift UI", "API", "Miro", "Canva"],
     "demo": "https://www.example.com",
     "source": "https://github.com/jpark534/WeAttire-iOSapp"
   },
   {
     "title": "J-Portfolio v1",
     "imageSrc": "/assets/projects/portfoliov1.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "First version of my Personal Portfolio. Showcasing my skills, projects, and experiences",
     "skills": ["React JS", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/jpark534/J-Portfolio-v1"
   },
   {
-    "title": "TicTacToes",
+    "title": "J-Portfolio v2",
+    "imageSrc": "/assets/projects/portfoliov2.png",
+    "description": "Second version of my Personal Portfolio. Showcasing my projects, and experiences",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/jpark534/J-portfolio-v2"
+  },
+  {
+    "title": "TicTacToes👣",
     "imageSrc": "/assets/projects/TicTacToes.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A TicTacToe game using pyGame features. Up to 2 players. Players icons are toes :)",
     "skills": ["Python", "Pygame", "Figma"],
     "demo": "https://www.example.com",
     "source": "https://github.com/jpark534/tictactoes"
   },
   {
-    "title": "J-Portfolio v2",
-    "imageSrc": "/assets/projects/portfoliov2.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "title": "Mickey Game🎮",
+    "imageSrc": "/assets/projects/Mickey.png",
+    "description": "My first coding project. Mickey collecting cheese balls from the sky using 's' and 'd' to control",
+    "skills": ["Processing"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/jpark534/MickeyMouseGame"
   }
 ]

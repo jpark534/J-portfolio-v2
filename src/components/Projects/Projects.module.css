@@ -23,6 +23,7 @@
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.8s;
+  z-index: 1;
 }
 
 .title:hover{
@@ -37,6 +38,48 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 55px;
+  gap: 35px;
   width: 100%;
+}
+
+.topBlur {
+  position: absolute;
+  width: 50vw;
+  height: 50vw;
+  min-width: 350px;
+  min-width: 350px;
+  top: 970px;
+  left: -30vw;
+  border-radius: 764px;
+  background: rgba(25, 55, 109, 0.7);
+  filter: blur(100px);
+  z-index: 0;
+}
+
+.middleBlur {
+  position: absolute;
+  width: 50vw;
+  height: 50vw;
+  min-width: 350px;
+  min-width: 350px;
+  top: 1570px;
+  right: 10vw;
+  border-radius: 764px;
+  background: rgba(25, 55, 109, 0.7);
+  filter: blur(100px);
+  z-index: 0;
+}
+
+.bottomBlur {
+  position: absolute;
+  width: 50vw;
+  height: 50vw;
+  min-width: 350px;
+  min-width: 350px;
+  top: 2270px;
+  left: -10vw;
+  border-radius: 764px;
+  background: rgba(25, 55, 109, 0.7);
+  filter: blur(100px);
+  z-index: 0;
 }

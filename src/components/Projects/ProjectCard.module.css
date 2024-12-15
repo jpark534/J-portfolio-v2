@@ -8,8 +8,9 @@
   background: linear-gradient(180deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 345px;
+  max-width: 385px;
   transition: 0.8s;
+  z-index: 1;
 }
 
 .container:hover {
@@ -38,8 +39,13 @@
   margin-top: 15px;
   font-size: 19px;
   font-weight: 50;
-  font-family: var(--font-inter);
+  transition: 0.7s;
 }
+.description:hover{
+  font-size: 25px;
+
+}
+
 
 .skills {
   width: 100%;
@@ -76,5 +82,4 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
-  font-family: var(--font-inter);
 }

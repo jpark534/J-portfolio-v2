@@ -14,6 +14,9 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
+      <div className={styles.topBlur} />
+      <div className={styles.middleBlur} />
+      <div className={styles.bottomBlur} />
     </section>
   );
 };
