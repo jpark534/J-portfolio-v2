@@ -3,7 +3,7 @@
     "role": "Software Developer",
     "imageSrc": "/assets/experience/TM.png",
     "organisation": "Tech Mahindra",
-    "startDate": "May , 2024",
+    "startDate": "May, 2024",
     "endDate": "Aug, 2024",
     "experiences": ["Worked for CIBC, Tech Mahindra's banking client.", "Created and developed a custom metrics dashboard using full-stack Django.","Built an ETL pipeline to extract Jira data, store it in PostgreSQL, and compute project metrics.", "Improved visibility and decision-making for CIBC’s CBPT Commercial QA/QE team."]
     
