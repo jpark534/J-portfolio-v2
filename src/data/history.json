@@ -5,7 +5,7 @@
     "startDate": "May , 2024",
     "endDate": "Aug, 2024",
     "experiences": ["Worked for CIBC, Tech Mahindra's banking client.", "Created and developed a custom metrics dashboard using full-stack Django.","Built an ETL pipeline to extract Jira data, store it in PostgreSQL, and compute project metrics.", "Improved visibility and decision-making for CIBC’s CBPT Commercial QA/QE team."],
-    "imageSrc": "/assets/experience/TM.png"
+    "imageSrc": "./assets/experience/TM.png"
   },
   {
     "role": "iOS Developer",
@@ -13,6 +13,6 @@
     "startDate": "June, 2022",
     "endDate": "Aug, 2022",
     "experiences": ["Collabed with Apple Inc.", "Developed a weather iOS application using Swift and API's.","Crafted user interfaces, and executed the implementation of features."],
-    "imageSrc": "/assets/experience/OWH.png"
+    "imageSrc": "./assets/experience/OWH.png"
   }
 ]
