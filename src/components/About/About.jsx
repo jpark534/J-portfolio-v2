@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./About.module.css";
 import Cursor from '/assets/about/cursorIcon.png';
 import server from '/assets/about/serverIcon.png';
-import uiIcon from '/assets/about/uiicon.png';
+import uiIcon from '/assets/about/uiIcon.png';
 import image from '/assets/hero/herobg.png';
 
 export const About = () => {
