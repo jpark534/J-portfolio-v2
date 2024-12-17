@@ -2,6 +2,11 @@ import React from "react";
 
 import styles from "./Experience.module.css";
 import history from "../../data/history.json";
+// import { getImageUrl } from "../../utils.js";
+
+export const getImageUrl = (path) => {
+  return path
+};
 
 export const Experience = () => {
   return (
@@ -13,7 +18,7 @@ export const Experience = () => {
             return (
               <li key={id} className={styles.historyItem}>
                 <img
-                  src={historyItem.imageSrc}
+                  src={getImageUrl(historyItem.imageSrc)}
                   alt={`${historyItem.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>
