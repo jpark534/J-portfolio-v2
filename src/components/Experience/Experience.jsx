@@ -5,7 +5,7 @@ import history from "../../data/history.json";
 // import { getImageUrl } from "../../utils.js";
 
 export const getImageUrl = (path) => {
-  return new URL(path, import.meta.url).href;
+  return new URL(path, import.meta.url);
 };
 
 export const Experience = () => {
