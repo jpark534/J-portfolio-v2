@@ -44,6 +44,7 @@
   font-size: 72px;
   font-weight: 950;
   margin-bottom: 33px;
+  height: 100%;
   font-family: var(--font-inter);
   background: linear-gradient(
     90deg,
