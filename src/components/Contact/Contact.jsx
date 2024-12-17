@@ -1,6 +1,8 @@
 import React from "react";
 
 import styles from "./Contact.module.css";
+import linkedin from "/assets/contact/linkedinIcon.png";
+import github from "/assets/contact/githubIcon.png";
 
 
 export const Contact = () => {
@@ -17,13 +19,13 @@ export const Contact = () => {
         </li> */}
         <li className={styles.link}>
           <img
-            src={"/assets/contact/linkedinIcon.png"}
+            src={linkedin}
             alt="LinkedIn icon"
           />
           <a href="https://www.linkedin.com/in/julia-park-a30a70299/" target="_blank">linkedin.com</a>
         </li>
         <li className={styles.link}>
-          <img src={"/assets/contact/githubIcon.png"} alt="Github icon" />
+          <img src={github} alt="Github icon" />
           <a href="https://www.github.com/jpark534" target="_blank">github.com</a>
         </li>
       </ul>
