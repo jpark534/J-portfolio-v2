@@ -191,7 +191,7 @@ html
     align-items: center;
   }
   .heroImg {
-    width: 50%;
+    width: 60%;
     z-index: 1;
     padding-bottom: 20%;
     animation-name: floating;
