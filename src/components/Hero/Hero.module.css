@@ -179,9 +179,13 @@ html
   }
 
   .title{
-    text-align: center;
-    font-size: 65px;
+    font-size: 55px;
   }
+
+  .subtitle{
+    margin-top: -10%;
+  }
+
 
   .content {
     align-items: center;
