@@ -55,7 +55,7 @@ html
     rgb(155, 122, 215)
   );
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  /* -webkit-background-clip: text; */
 }
 
 
