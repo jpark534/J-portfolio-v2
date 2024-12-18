@@ -3,16 +3,16 @@
     "role": "Software Developer",
     "imageSrc": "./experience/TM.PNG",
     "organisation": "Tech Mahindra",
-    "startDate": "May, 2024",
-    "endDate": "Aug, 2024",
+    "startDate": "May 2024",
+    "endDate": "Aug 2024",
     "experiences": ["Worked for CIBC, Tech Mahindra's banking client.", "Created and developed a custom metrics dashboard using full-stack Django.","Built an ETL pipeline to extract Jira data, store it in PostgreSQL, and compute project metrics.", "Improved visibility and decision-making for CIBC’s CBPT Commercial QA/QE team."]
     
   },
   {
     "role": "iOS Developer",
     "organisation": "Our Wave Hub",
-    "startDate": "June, 2022",
-    "endDate": "Aug, 2022",
+    "startDate": "June 2022",
+    "endDate": "Aug 2022",
     "experiences": ["Collabed with Apple Inc.", "Developed a weather iOS application using Swift and API's.","Crafted user interfaces, and executed the implementation of features."],
     "imageSrc": "./experience/OWH.PNG"
   }
