@@ -1,7 +1,7 @@
 [
   {
     "role": "Software Developer",
-    "imageSrc": "/assets/experience/TM.PNG",
+    "imageSrc": "./experience/TM.PNG",
     "organisation": "Tech Mahindra",
     "startDate": "May, 2024",
     "endDate": "Aug, 2024",
@@ -14,6 +14,6 @@
     "startDate": "June, 2022",
     "endDate": "Aug, 2022",
     "experiences": ["Collabed with Apple Inc.", "Developed a weather iOS application using Swift and API's.","Crafted user interfaces, and executed the implementation of features."],
-    "imageSrc": "/assets/experience/OWH.PNG"
+    "imageSrc": "./experience/OWH.PNG"
   }
 ]
