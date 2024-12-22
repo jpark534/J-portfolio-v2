@@ -51,11 +51,9 @@ html
   background-image: linear-gradient(
     to right,
     rgb(122, 117, 212),
-    rgb(209, 205, 231)50%,
+    /* rgb(209, 205, 231)50%, */
     rgb(155, 122, 215)
   );
-  background-clip: text;
-  -webkit-background-clip: text;
   color: transparent;
   /* -webkit-text-fill-color: transparent;
   -webkit-background-clip: text; */
