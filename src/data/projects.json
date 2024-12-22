@@ -9,7 +9,7 @@
   },
   {
     "title": "J-Portfolio v1",
-    "imageSrc": "/assets/projects/portfoliov1.png",
+    "imageSrc": "/projects/portfoliov1.png",
     "description": "First version of my Personal Portfolio. Showcasing my skills, projects, and experiences",
     "skills": ["React JS", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
   },
   {
     "title": "J-Portfolio v2",
-    "imageSrc": "/assets/projects/portfoliov2.png",
+    "imageSrc": "/projects/portfoliov2.png",
     "description": "Second version of my Personal Portfolio. Showcasing my projects, and experiences",
     "skills": ["React", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
@@ -25,7 +25,7 @@
   },
   {
     "title": "TicTacToes👣",
-    "imageSrc": "/assets/projects/TicTacToes.png",
+    "imageSrc": "/projects/TicTacToes.png",
     "description": "A TicTacToe game using pyGame features. Up to 2 players. Players icons are toes :)",
     "skills": ["Python", "Pygame", "Figma"],
     "demo": "https://www.example.com",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Mickey Game🎮",
-    "imageSrc": "/assets/projects/Mickey.png",
+    "imageSrc": "/projects/Mickey.png",
     "description": "My first coding project. Mickey collecting cheese balls from the sky using 's' and 'd' to control",
     "skills": ["Processing"],
     "demo": "https://www.example.com",
