@@ -1,7 +1,7 @@
 import React from "react";
+import { useState } from 'react';
 
 import styles from "./ProjectCard.module.css";
-import img from "/assets/projects/WeAttire.png";
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
@@ -9,7 +9,7 @@ export const ProjectCard = ({
   return (
     <div className={styles.container}>
       <img
-        src={new URL(imageSrc, import.meta.url).href}
+        src={"/assets/projects/WeAttire.png"}
         alt={`Image of ${title}`}
         className={styles.image}
       />
