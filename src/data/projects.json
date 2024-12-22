@@ -1,7 +1,7 @@
 [
   {
     "title": "WeAttire⛅️",
-    "imageSrc": "assets/projects/WeAttire.png",
+    "imageSrc": "/assets/projects/WeAttire.png",
     "description": "iOS app providing weather analysis tailored to the user's location, visually offering suitable attire choices",
     "skills": ["Swift", "Swift UI", "API", "Miro", "Canva"],
     "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "J-Portfolio v1",
-    "imageSrc": "assets/projects/portfoliov1.png",
+    "imageSrc": "/assets/projects/portfoliov1.png",
     "description": "First version of my Personal Portfolio. Showcasing my skills, projects, and experiences",
     "skills": ["React JS", "Javascript", "HTML", "CSS"],
     "demo": "https://www.example.com",
