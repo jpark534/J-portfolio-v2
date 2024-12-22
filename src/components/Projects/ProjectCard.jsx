@@ -1,6 +1,7 @@
 import React from "react";
 
 import styles from "./ProjectCard.module.css";
+import img from "/assets/projects/WeAttire.png";
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
@@ -8,7 +9,7 @@ export const ProjectCard = ({
   return (
     <div className={styles.container}>
       <img
-        src={imageSrc}
+        src={img}
         alt={`Image of ${title}`}
         className={styles.image}
       />
