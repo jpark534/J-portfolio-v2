@@ -1,7 +1,7 @@
 [
   {
     "title": "WeAttire⛅️",
-    "imageSrc": "/WeAttire.png",
+    "imageSrc": "/projects/WeAttire.png",
     "description": "iOS app providing weather analysis tailored to the user's location, visually offering suitable attire choices",
     "skills": ["Swift", "Swift UI", "API", "Miro", "Canva"],
     "demo": "https://www.example.com",
